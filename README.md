@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+GetX Package Management - https://pub.dev/packages/get
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
